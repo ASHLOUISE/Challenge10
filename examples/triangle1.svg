@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+            
+        
+          <polygon points="150, 30 270, 170 30, 170" fill="BLUE" />
+          <text x="150" y="100" text-anchor="middle" alignment-baseline="middle" fill="WHITE">BTR</text>
+        
+      
+        </svg>
