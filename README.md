@@ -5,7 +5,9 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Behavior](#behavior)
+- [Usage](#usage)
 - [Assets](#assets)
+- [Video-Demo](#video-demo)
 - [Links](#links)
 
 ## Overview
